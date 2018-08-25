@@ -1,0 +1,6 @@
+Mar 19, 2018 9:06:49 PM CSVReadWriteFile main
+INFO: Total execution time: 456 ms
+Mar 19, 2018 9:06:49 PM CSVReadWriteFile main
+INFO: Total number of valid rows: 7942
+Mar 19, 2018 9:06:49 PM CSVReadWriteFile main
+INFO: Total number of invalid rows: 3353
